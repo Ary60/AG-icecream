@@ -1,0 +1,85 @@
+
+body{
+  background: white;
+}
+.l{
+  width: 90%;
+  background-image: url("l.jpg");
+  height: 130px;
+  color: blue;
+  font-size: 99px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 70px;
+  margin-left: 40px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: static;
+  
+  
+}
+
+a{
+  font-weight: bold;
+  color:  fuchsia;
+  text-decoration: none;
+  font-size: 41px;
+  padding-right: 70px;
+  margin-left: 100px;
+  line-height: 166px;
+}
+
+hr{
+  width: 90%;
+  height: 3px;
+  background: yellow;
+}
+h4{
+  color: dodgerblue;
+  text-align: center;
+  font-size: 51px;
+}
+
+p{
+   text-align: center;
+  font-size: 41px;
+  font-weight: bold;
+}
+ img:hover{
+   border: 3px solid orange;
+   
+   
+ }
+h3{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  color: red;
+}
+ h1{
+  margin-left: 66px;
+   padding-right: 77px;
+   margin-bottom: 0px;
+}
+.q{
+  word-spacing: 27px;
+  font-size: 32px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin-top: -45px;
+  color: red;
+  
+}
+.a{
+  margin-top: 70px;
+  margin-left: 45px;
+}
+.a h1{
+  text-align: center;
+  margin-top: 47px;
+  font-size: 5px;
+  color: brown;
+}
+.a hr{
+  width: 70%;
+}
